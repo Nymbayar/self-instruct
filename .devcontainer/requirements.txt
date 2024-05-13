@@ -1,0 +1,7 @@
+argilla
+datasets
+pandas
+plotly
+transformers
+python-dotenv
+pydantic_settings
